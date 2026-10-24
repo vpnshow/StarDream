@@ -67,9 +67,23 @@
 
 <a id="stardream-speed-test"></a>
 
-## 星岛梦(StarDream)VPN流媒体解锁与高峰测速记录
+## 星岛梦(StarDream)VPN流媒体解锁与测速记录
 
 <!-- ![星岛梦(StarDream) 三网拓扑](https://i.eoht.net/airport/StarDream_analyze.webp) -->
+
+以下摘录页面已有历史截图，未重新测试。测速图时间为 **2026-06-17 18:32:15（CST）**，MiaoKo 主端 4.3.3、喵速 4.6.4，后端标注**珠海联通 9Gbps、32 线程**，按订阅顺序测试；具体测试设备、下载目标与每节点时长未记录。
+
+| 节点（原名） | TLS RTT | HTTPS 延迟 | 平均速度（原标） | 最高速度（原标） | UDP 类型 |
+| --- | --- | --- | --- | --- | --- |
+| 香港09 | 115ms | 584ms | 387.21MB | 478.34MB | FullCone |
+| 日本06 | 181ms | 836ms | 101.08MB | 104.18MB | Unknown |
+| 新加坡01 | 151ms | 1303ms | 268.77MB | 330.02MB | FullCone |
+| 美国02 | 280ms | 1142ms | 1.60KB | 16.00KB | FullCone |
+| 台湾03 | 143ms | 722ms | 80.93MB | 110.86MB | FullCone |
+
+平均/最高速度按截图原标保留 **MB、KB 或 B**，没有换写成 Mbps；原图未明确写出的单位细节不作补推。摘录只覆盖上述代表行，不代表全体节点或当前网络表现。
+
+美国02的结果是 **KB** 级，不能按 MB 或 Mbps 读取；日本06的 UDP 为 Unknown。独立解锁图记录 **2026-06-27 15:11:12（CST）**，后端为珠海联通 9Gbps、单线程：JP日本01的 Netflix 为 **N/A**、TikTok 为**失败**，Disney+ 和 OpenAI 显示解锁 JP；SG新加坡01的 YouTube 显示“送中(CN)”、Netflix 为解锁 SG、Disney+ 为解锁 US。两次测试不是同一时刻的联合测量。
 
 ![星岛梦(StarDream) 流媒体解锁图](https://i.eoht.net/airport/xdm_fulltest.webp)
 
