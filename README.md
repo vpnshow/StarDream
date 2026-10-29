@@ -30,7 +30,7 @@
 
 ## 星岛梦(StarDream)VPN机场怎么样？直连、IPLC与适用人群
 
-**星岛梦(StarDream)** 由海外团队运营，提供直连、IPLC、按月流量和不限时流量包。其套餐从 60GB 年付小包延伸到 1TB 月度方案，并提供多年付折扣；页面将低延迟、晚高峰不限速和动态加速列为线路保障。
+**星岛梦(StarDream)** 由海外团队运营，提供 **6 Gbps 带宽**、直连、IPLC、按月流量和不限时流量包。其套餐从 60GB 年付小包延伸到 1TB 月度方案，并提供多年付折扣；页面将低延迟、晚高峰不限速和动态加速列为线路保障。
 
 - 原生 IP 节点支持 **Netflix、Disney+、HBO Max、YouTube、Spotify、Hulu** 等流媒体；
 - 支持 **ChatGPT、Copilot、Gemini、TikTok** 等 AI 与内容服务；
