@@ -4,17 +4,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/xdm) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-星岛梦（StarDream）也有人称 **XDM**。它提供直连与 IPLC 机场订阅，常见叫法包括“StarDream VPN”“XDM VPN”“XDM 梯子”和“星岛梦机场”。可将订阅导入兼容客户端，再使用其中的代理节点；页面提供多种周期和流量方案，适合先按预算和用量快速筛选。
-
 > [!NOTE]
 > **30 秒看懂星岛梦**
 >
-> - **最低门槛**：60GB/月贴心小包年付 ¥96，折合 ¥8/月。
-> - **核心特点**：直连与 IPLC、月度大流量和 100GB 至 1TB 一次性流量包。
-> - **优惠与解锁**：双十一活动至 **2026 年 11 月 30 日**，年付及以上可用 8 折码 `2happy80`，年付以下可用 8.5 折码 `2happy85`，**年付小包不参与本次活动**；另有 9 折码 `nmw888`，适用套餐以结算页为准；原生 IP 节点支持主流流媒体与 AI 服务。
+> [访问官网](https://eoht.net/serve/airport/xdm) · [查看套餐与优惠](#stardream-vpn-plans) · [查看测速与解锁](#stardream-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐与优惠](#stardream-vpn-plans) · [查看测速与解锁](#stardream-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：贴心小包年付 ¥96，60GB/月，折合 ¥8/月；需一次支付全年费用。
+> - **服务方式**：直连与 IPLC，兼容客户端；另有 100GB 至 1TB 一次性流量包，原生 IP 节点支持流媒体与 AI。
+> - **优惠限制**：`2happy80` 年付及以上 8 折、`2happy85` 年付以下 8.5 折，均至 **2026 年 11 月 30 日**，**年付小包不参与**；另有 9 折码 `nmw888`，适用及叠加条件以结算页为准。
 >
+
+星岛梦（StarDream）也有人称 **XDM**。它提供直连与 IPLC 机场订阅，常见叫法包括“StarDream VPN”“XDM VPN”“XDM 梯子”和“星岛梦机场”。可将订阅导入兼容客户端，再使用其中的代理节点；页面提供多种周期和流量方案，适合先按预算和用量快速筛选。
 
 <a id="stardream-official-website"></a>
 
